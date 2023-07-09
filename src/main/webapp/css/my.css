@@ -1,0 +1,30 @@
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+    background-color: lavenderblush;
+}
+
+.field {
+    clear: both;
+    text-align: right;
+    line-height: 25px;
+}
+
+.field input {
+    width: 200px;
+}
+
+.field select {
+    width: 200px;
+}
+
+label {
+    float: left;
+    padding-right: 10px;
+}
+
+.main {
+    float: left
+}
+
+
